@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Open-search
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -37,3 +38,6 @@ npm run build
 ```sh
 npm run test:unit
 ```
+=======
+# Open-search
+>>>>>>> 91d6f3cfd0e22e477d5449e4c86055608cecbbf9
